@@ -1,6 +1,6 @@
 # Changelog
 
-## 6.22.0
+## 6.22.1
 
 ### Features
 
